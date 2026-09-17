@@ -1,0 +1,27 @@
+# Operating System Junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node.js & Package Managers (if used)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment & Build Output
+.env
+.env.local
+dist/
+build/
+
+# Temp & Cache Files
+*.tmp
+*.log
+.cache/
